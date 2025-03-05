@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HienThiLoiChao/HienThiLoiChao.iml" filepath="$PROJECT_DIR$/HienThiLoiChao/HienThiLoiChao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearEquationResolver/LinearEquationResolver.iml" filepath="$PROJECT_DIR$/LinearEquationResolver/LinearEquationResolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/Rectangle/Rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UngDungChuyenDoiTienTe/UngDungChuyenDoiTienTe.iml" filepath="$PROJECT_DIR$/UngDungChuyenDoiTienTe/UngDungChuyenDoiTienTe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UngDungDocSoThanhChu/UngDungDocSoThanhChu.iml" filepath="$PROJECT_DIR$/UngDungDocSoThanhChu/UngDungDocSoThanhChu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variable-DataType/Variable-DataType.iml" filepath="$PROJECT_DIR$/Variable-DataType/Variable-DataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ss1.iml" filepath="$PROJECT_DIR$/.idea/ss1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system-time/system-time.iml" filepath="$PROJECT_DIR$/system-time/system-time.iml" />
+    </modules>
+  </component>
+</project>
